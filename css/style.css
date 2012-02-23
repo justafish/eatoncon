@@ -1,0 +1,41 @@
+body {
+  background: #000 url('../images/eaton.jpg') no-repeat;
+  background-size: 100% auto;
+  color: #FFF;
+}
+
+header {
+  background-color: rgba(0,0,0,0.3);
+  font-size: 1.5em;
+  padding: 1em;
+}
+
+header nav,
+header nav a {
+  color: #FFF;
+  opacity: 1;
+  text-decoration: none;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: right;
+  margin-right: 1em;
+}
+
+.content {
+  background-color: rgba(0,0,0,0.85);
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 1em;
+  margin-top: 3em;
+  font-size: 1.5em;
+}
+
+.content li {
+  list-style-position: inside;
+}
