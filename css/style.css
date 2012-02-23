@@ -39,3 +39,8 @@ h1 {
 .content li {
   list-style-position: inside;
 }
+
+.slogan {
+  text-align: right;
+  margin-right: 48px;
+}
